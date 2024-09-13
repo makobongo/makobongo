@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Hi, I'm Steve Obongo**, a Full Stack Developer.
+**Hi, I'm Steve**, a Full Stack Developer.
 
 Here are some ideas to get you started:
 
