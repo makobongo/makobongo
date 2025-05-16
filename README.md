@@ -5,6 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 Currently working on [ERP system](https://pos.sbong.xyz).
-- 🌱 I’m currently mastering the art of [TDD,CI/CD](https://github.com/makobongo/events) and  AWS, GKE.
+- 🌱 mastering the art of [TDD,CI/CD](https://github.com/makobongo/events) and  AWS, GKE.
 - 👯 I’m always on the look to collaborate with other developers.
 
